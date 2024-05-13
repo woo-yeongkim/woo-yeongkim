@@ -17,6 +17,6 @@ Areas of interest : ??
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woo-yeongkim&layout=compact)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wy007)](https://solved.ac/wy007)
+![[Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wy007)](https://solved.ac/wy007)
 
 
